@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "A react storybook addon template in typescript",
   "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
   "scripts": {
     "storybook": "start-storybook -p 3000",
     "pretest": "npm run compile",
